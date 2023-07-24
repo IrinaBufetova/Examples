@@ -1,0 +1,15 @@
+C:\Users\user\Examples\Example004_Division\bin\Debug\net6.0\Example004_Division.exe
+C:\Users\user\Examples\Example004_Division\bin\Debug\net6.0\Example004_Division.deps.json
+C:\Users\user\Examples\Example004_Division\bin\Debug\net6.0\Example004_Division.runtimeconfig.json
+C:\Users\user\Examples\Example004_Division\bin\Debug\net6.0\Example004_Division.dll
+C:\Users\user\Examples\Example004_Division\bin\Debug\net6.0\Example004_Division.pdb
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\Example004_Division.csproj.AssemblyReference.cache
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\Example004_Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\Example004_Division.AssemblyInfoInputs.cache
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\Example004_Division.AssemblyInfo.cs
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\Example004_Division.csproj.CoreCompileInputs.cache
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\Example004_Division.dll
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\refint\Example004_Division.dll
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\Example004_Division.pdb
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\Example004_Division.genruntimeconfig.cache
+C:\Users\user\Examples\Example004_Division\obj\Debug\net6.0\ref\Example004_Division.dll
