@@ -1,0 +1,5 @@
+C:\Users\user\Examples\Example 005_IfElseCondition\obj\Debug\net6.0\Example 005_IfElseCondition.csproj.AssemblyReference.cache
+C:\Users\user\Examples\Example 005_IfElseCondition\obj\Debug\net6.0\Example 005_IfElseCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Examples\Example 005_IfElseCondition\obj\Debug\net6.0\Example 005_IfElseCondition.AssemblyInfoInputs.cache
+C:\Users\user\Examples\Example 005_IfElseCondition\obj\Debug\net6.0\Example 005_IfElseCondition.AssemblyInfo.cs
+C:\Users\user\Examples\Example 005_IfElseCondition\obj\Debug\net6.0\Example 005_IfElseCondition.csproj.CoreCompileInputs.cache
